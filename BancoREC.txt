@@ -1,0 +1,17 @@
+CREATE TABLE `pedido` (
+  `codigo_pedido` INT NOT NULL AUTO_INCREMENT,
+  `data` DATETIME(45) NOT NULL,
+  `nome_vendedor` VARCHAR(45) NOT NULL,
+  `status` BOOLEAN(1) NOT NULL,
+  `observacoes` VARCHAR(45) NOT NULL,
+  PRIMARY KEY (`codigo_pedido`))
+
+CREATE TABLE `ItenPedido` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `quantidade` INT NOT NULL,
+  `preco` INT NOT NULL,
+  PRIMARY KEY (`id`))
+
+CREATE TABLE `Produto` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`id`))
