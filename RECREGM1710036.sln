@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RECREGM1709518", "RECREGM1709518\RECREGM1709518.csproj", "{835C813E-BE41-4FF9-8173-2D8EDBF5793A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RECREGM1710036", "RECREGM1709518\RECREGM1710036.csproj", "{835C813E-BE41-4FF9-8173-2D8EDBF5793A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

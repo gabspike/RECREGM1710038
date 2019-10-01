@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RECREGM1709518
+namespace RECREGM1710036
 {
     public class ItenPedido
     {
